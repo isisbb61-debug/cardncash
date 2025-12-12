@@ -1,11 +1,11 @@
 /* TEAM */
 Site: CardNCash — 신용카드 결제 구조 안내 플랫폼
-URL: https://cardncash.netlify.app
+URL: https://cardncash.pages.dev
 Purpose: 안전한 카드 결제 구조 정보 제공
 
 Creator: cardncash
 Role: 콘텐츠 운영 & 금융 정보 기획
-Contact: support@cardncash.netlify.app
+Contact: support@cardncash.pages.dev
 
 /* TECHNOLOGY */
 Hosting: Netlify

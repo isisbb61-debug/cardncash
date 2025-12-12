@@ -3,7 +3,7 @@
 
   <!-- 메인페이지 -->
   <url>
-    <loc>https://cardncash.netlify.app/</loc>
+    <loc>https://cardncash.pages.dev/</loc>
     <lastmod>2025-01-01</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
@@ -11,154 +11,154 @@
 
   <!-- approval -->
   <url>
-    <loc>https://cardncash.netlify.app/approval/</loc>
+    <loc>https://cardncash.pages.dev/approval/</loc>
     <lastmod>2025-01-01</lastmod>
     <priority>0.90</priority>
   </url>
 
   <!-- block -->
   <url>
-    <loc>https://cardncash.netlify.app/block/</loc>
+    <loc>https://cardncash.pages.dev/block/</loc>
     <lastmod>2025-01-01</lastmod>
     <priority>0.90</priority>
   </url>
 
   <!-- cardtype -->
   <url>
-    <loc>https://cardncash.netlify.app/cardtype/</loc>
+    <loc>https://cardncash.pages.dev/cardtype/</loc>
     <lastmod>2025-01-01</lastmod>
     <priority>0.90</priority>
   </url>
 
   <!-- case -->
   <url>
-    <loc>https://cardncash.netlify.app/case/</loc>
+    <loc>https://cardncash.pages.dev/case/</loc>
     <lastmod>2025-01-01</lastmod>
     <priority>0.85</priority>
   </url>
 
   <!-- checklist -->
   <url>
-    <loc>https://cardncash.netlify.app/checklist/</loc>
+    <loc>https://cardncash.pages.dev/checklist/</loc>
     <lastmod>2025-01-01</lastmod>
     <priority>0.85</priority>
   </url>
 
   <!-- compare -->
   <url>
-    <loc>https://cardncash.netlify.app/compare/</loc>
+    <loc>https://cardncash.pages.dev/compare/</loc>
     <lastmod>2025-01-01</lastmod>
     <priority>0.85</priority>
   </url>
 
   <!-- contact -->
   <url>
-    <loc>https://cardncash.netlify.app/contact/</loc>
+    <loc>https://cardncash.pages.dev/contact/</loc>
     <lastmod>2025-01-01</lastmod>
     <priority>0.70</priority>
   </url>
 
   <!-- faq -->
   <url>
-    <loc>https://cardncash.netlify.app/faq/</loc>
+    <loc>https://cardncash.pages.dev/faq/</loc>
     <lastmod>2025-01-01</lastmod>
     <priority>0.90</priority>
   </url>
 
   <!-- fees -->
   <url>
-    <loc>https://cardncash.netlify.app/fees/</loc>
+    <loc>https://cardncash.pages.dev/fees/</loc>
     <lastmod>2025-01-01</lastmod>
     <priority>0.85</priority>
   </url>
 
   <!-- guide -->
   <url>
-    <loc>https://cardncash.netlify.app/guide/</loc>
+    <loc>https://cardncash.pages.dev/guide/</loc>
     <lastmod>2025-01-01</lastmod>
     <priority>1.0</priority>
   </url>
 
   <!-- law -->
   <url>
-    <loc>https://cardncash.netlify.app/law/</loc>
+    <loc>https://cardncash.pages.dev/law/</loc>
     <lastmod>2025-01-01</lastmod>
     <priority>0.80</priority>
   </url>
 
   <!-- limitrules -->
   <url>
-    <loc>https://cardncash.netlify.app/limitrules/</loc>
+    <loc>https://cardncash.pages.dev/limitrules/</loc>
     <lastmod>2025-01-01</lastmod>
     <priority>0.80</priority>
   </url>
 
   <!-- problem -->
   <url>
-    <loc>https://cardncash.netlify.app/problem/</loc>
+    <loc>https://cardncash.pages.dev/problem/</loc>
     <lastmod>2025-01-01</lastmod>
     <priority>0.85</priority>
   </url>
 
   <!-- process -->
   <url>
-    <loc>https://cardncash.netlify.app/process/</loc>
+    <loc>https://cardncash.pages.dev/process/</loc>
     <lastmod>2025-01-01</lastmod>
     <priority>0.90</priority>
   </url>
 
   <!-- qa -->
   <url>
-    <loc>https://cardncash.netlify.app/qa/</loc>
+    <loc>https://cardncash.pages.dev/qa/</loc>
     <lastmod>2025-01-01</lastmod>
     <priority>0.80</priority>
   </url>
 
   <!-- ranking -->
   <url>
-    <loc>https://cardncash.netlify.app/ranking/</loc>
+    <loc>https://cardncash.pages.dev/ranking/</loc>
     <lastmod>2025-01-01</lastmod>
     <priority>0.90</priority>
   </url>
 
   <!-- reviews (review3.html 독립 파일) -->
   <url>
-    <loc>https://cardncash.netlify.app/reviews/review3.html</loc>
+    <loc>https://cardncash.pages.dev/reviews/review3.html</loc>
     <lastmod>2025-01-01</lastmod>
     <priority>0.70</priority>
   </url>
 
   <!-- risk -->
   <url>
-    <loc>https://cardncash.netlify.app/risk/</loc>
+    <loc>https://cardncash.pages.dev/risk/</loc>
     <lastmod>2025-01-01</lastmod>
     <priority>0.85</priority>
   </url>
 
   <!-- speed -->
   <url>
-    <loc>https://cardncash.netlify.app/speed/</loc>
+    <loc>https://cardncash.pages.dev/speed/</loc>
     <lastmod>2025-01-01</lastmod>
     <priority>0.80</priority>
   </url>
 
   <!-- support -->
   <url>
-    <loc>https://cardncash.netlify.app/support/</loc>
+    <loc>https://cardncash.pages.dev/support/</loc>
     <lastmod>2025-01-01</lastmod>
     <priority>0.80</priority>
   </url>
 
   <!-- types -->
   <url>
-    <loc>https://cardncash.netlify.app/types/</loc>
+    <loc>https://cardncash.pages.dev/types/</loc>
     <lastmod>2025-01-01</lastmod>
     <priority>0.90</priority>
   </url>
 
   <!-- warning -->
   <url>
-    <loc>https://cardncash.netlify.app/warning/</loc>
+    <loc>https://cardncash.pages.dev/warning/</loc>
     <lastmod>2025-01-01</lastmod>
     <priority>0.85</priority>
   </url>

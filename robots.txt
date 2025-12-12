@@ -11,4 +11,4 @@ Disallow: /login/
 Disallow: /settings/
 
 # Sitemap 위치 명시 (중요)
-Sitemap: https://cardncash.netlify.app/sitemap.xml
+Sitemap: https://cardncash.pages.dev/sitemap.xml
