@@ -1,40 +1,140 @@
-body {
-    font-family: "Noto Sans KR", sans-serif;
-    margin: 0;
-    background: #f5f7fa;
-    color: #1a1a1a;
+/* ================================
+   GLOBAL FINANCIAL SERVICE THEME
+   ================================ */
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Noto Sans KR', sans-serif;
+  background: #F5F7FB;
+  color: #1A2A44;
+  line-height: 1.65;
+  font-size: 17px;
 }
 
-/* CTA */
-.global-cta {
-    padding: 20px;
-    text-align: center;
+/* -------------------------------
+   WRAPPER
+-------------------------------- */
+.container {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 20px;
 }
 
-.cta {
-    padding: 12px 24px;
-    border-radius: 10px;
-    text-decoration: none;
-    margin: 6px;
-    display: inline-block;
-    font-weight: 700;
+/* -------------------------------
+   HERO SECTION
+-------------------------------- */
+.hero {
+  padding: 60px 20px;
+  text-align: center;
+  background: linear-gradient(135deg, #1C3FA8, #234BCE);
+  color: #fff;
 }
 
-.main-cta {
-    background: #ffe812;
-    color: black;
+.hero h1 {
+  font-size: 32px;
+  font-weight: 800;
+  margin-bottom: 15px;
 }
 
-.sub-cta {
-    background: #1cc57a;
-    color: white;
+.hero p {
+  font-size: 18px;
+  opacity: 0.95;
 }
 
-/* Footer */
-.global-footer {
-    background: #111;
-    color: #eee;
-    padding: 30px;
-    text-align: center;
-    margin-top: 50px;
+/* -------------------------------
+   SECTION
+-------------------------------- */
+.section {
+  margin: 40px auto;
+  max-width: 900px;
+}
+
+.section h2 {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 18px;
+  color: #1A2A44;
+  border-left: 6px solid #1C3FA8;
+  padding-left: 12px;
+}
+
+/* -------------------------------
+   BOX STYLE
+-------------------------------- */
+.box {
+  background: #ffffff;
+  padding: 22px 26px;
+  border-radius: 12px;
+  box-shadow: 0 3px 12px rgba(0,0,0,0.08);
+  margin-bottom: 18px;
+}
+
+.box p {
+  margin: 0 0 12px 0;
+  color: #1A2A44;
+  font-size: 17px;
+}
+
+/* -------------------------------
+   TABLE STYLE
+-------------------------------- */
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 12px;
+}
+
+.table th, .table td {
+  padding: 12px 14px;
+  border: 1px solid #D7DCE5;
+  text-align: left;
+}
+
+.table th {
+  background: #eff3ff;
+  font-weight: 700;
+}
+
+/* -------------------------------
+   LINKS
+-------------------------------- */
+a {
+  color: #1C3FA8;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* -------------------------------
+   CTA (자동 삽입 영역)
+-------------------------------- */
+#cta {
+  margin: 40px auto;
+  max-width: 900px;
+}
+
+/* -------------------------------
+   FOOTER COMPONENT
+-------------------------------- */
+#footer {
+  margin-top: 60px;
+}
+
+/* -------------------------------
+   MOBILE RESPONSIVE
+-------------------------------- */
+@media (max-width: 768px) {
+
+  .hero h1 { font-size: 26px; }
+  .hero p { font-size: 16px; }
+
+  .section h2 { font-size: 22px; }
+
+  body { font-size: 16px; }
+
+  .box { padding: 18px 20px; }
 }
