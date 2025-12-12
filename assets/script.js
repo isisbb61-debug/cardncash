@@ -1,1 +1,7 @@
-// 향후 CTA, 계산기 추가 시 여기에 작성
+function loadComponent(path, selector) {
+    fetch(path)
+        .then(res => res.text())
+        .then(html => {
+            document.querySelector(selector).innerHTML = html;
+        });
+}
