@@ -1,93 +1,40 @@
 body {
-    margin: 0;
     font-family: "Noto Sans KR", sans-serif;
+    margin: 0;
     background: #f5f7fa;
     color: #1a1a1a;
 }
 
-/* Hero */
-.hero {
-    background: linear-gradient(135deg, #153e90, #3f6dff);
-    padding: 50px 20px;
-    text-align: center;
-    color: white;
-}
-
-.hero h1 {
-    font-size: 32px;
-    margin-bottom: 10px;
-}
-
-.hero p {
-    font-size: 18px;
-    margin-bottom: 20px;
-    opacity: 0.95;
-}
-
 /* CTA */
-.cta-wrap {
-    display: flex;
-    justify-content: center;
-    gap: 12px;
+.global-cta {
+    padding: 20px;
+    text-align: center;
 }
 
 .cta {
-    padding: 14px 22px;
+    padding: 12px 24px;
     border-radius: 10px;
-    font-weight: 700;
     text-decoration: none;
-    font-size: 16px;
+    margin: 6px;
     display: inline-block;
+    font-weight: 700;
 }
 
-.cta.kakao { background: #ffe812; color: #000; }
-.cta.call { background: #1cc57a; color: white; }
-
-.sub-link {
-    display: block;
-    margin-top: 20px;
-    color: #fff;
-    text-decoration: underline;
-    font-size: 15px;
+.main-cta {
+    background: #ffe812;
+    color: black;
 }
 
-/* Sections */
-.section {
-    max-width: 900px;
-    margin: 40px auto;
-    padding: 0 20px;
+.sub-cta {
+    background: #1cc57a;
+    color: white;
 }
-
-.section h2 {
-    font-size: 24px;
-    color: #153e90;
-}
-
-.box {
-    background: white;
-    padding: 22px;
-    border-radius: 12px;
-    box-shadow: 0 4px 14px rgba(0,0,0,0.08);
-}
-
-ul, ol { line-height: 1.7; }
-
-/* FAQ */
-details {
-    background: white;
-    padding: 16px;
-    border-radius: 10px;
-    margin-bottom: 10px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-}
-
-summary { font-weight: 700; font-size: 17px; }
 
 /* Footer */
-footer {
+.global-footer {
     background: #111;
-    color: #ddd;
+    color: #eee;
+    padding: 30px;
     text-align: center;
-    padding: 30px 0;
-    margin-top: 40px;
+    margin-top: 50px;
 }
