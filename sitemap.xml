@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- 메인페이지 -->
+  <url>
+    <loc>https://cardncash.netlify.app/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+
+  <!-- approval -->
+  <url>
+    <loc>https://cardncash.netlify.app/approval/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- block -->
+  <url>
+    <loc>https://cardncash.netlify.app/block/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- cardtype -->
+  <url>
+    <loc>https://cardncash.netlify.app/cardtype/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- case -->
+  <url>
+    <loc>https://cardncash.netlify.app/case/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- checklist -->
+  <url>
+    <loc>https://cardncash.netlify.app/checklist/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- compare -->
+  <url>
+    <loc>https://cardncash.netlify.app/compare/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- contact -->
+  <url>
+    <loc>https://cardncash.netlify.app/contact/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <priority>0.70</priority>
+  </url>
+
+  <!-- faq -->
+  <url>
+    <loc>https://cardncash.netlify.app/faq/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- fees -->
+  <url>
+    <loc>https://cardncash.netlify.app/fees/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- guide -->
+  <url>
+    <loc>https://cardncash.netlify.app/guide/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- law -->
+  <url>
+    <loc>https://cardncash.netlify.app/law/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- limitrules -->
+  <url>
+    <loc>https://cardncash.netlify.app/limitrules/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- problem -->
+  <url>
+    <loc>https://cardncash.netlify.app/problem/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- process -->
+  <url>
+    <loc>https://cardncash.netlify.app/process/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- qa -->
+  <url>
+    <loc>https://cardncash.netlify.app/qa/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- ranking -->
+  <url>
+    <loc>https://cardncash.netlify.app/ranking/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- reviews (review3.html 독립 파일) -->
+  <url>
+    <loc>https://cardncash.netlify.app/reviews/review3.html</loc>
+    <lastmod>2025-01-01</lastmod>
+    <priority>0.70</priority>
+  </url>
+
+  <!-- risk -->
+  <url>
+    <loc>https://cardncash.netlify.app/risk/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- speed -->
+  <url>
+    <loc>https://cardncash.netlify.app/speed/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- support -->
+  <url>
+    <loc>https://cardncash.netlify.app/support/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- types -->
+  <url>
+    <loc>https://cardncash.netlify.app/types/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- warning -->
+  <url>
+    <loc>https://cardncash.netlify.app/warning/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+</urlset>
