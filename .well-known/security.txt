@@ -1,0 +1,13 @@
+Contact: mailto:support@cardncash.netlify.app
+Contact: https://cardncash.netlify.app/contact/
+
+Expires: 2026-01-01T00:00:00Z
+
+Preferred-Languages: ko, en
+
+Canonical: https://cardncash.netlify.app/.well-known/security.txt
+
+Policy: https://cardncash.netlify.app/warning/
+Acknowledgments: https://cardncash.netlify.app/support/
+
+Encryption: https://keys.openpgp.org/
