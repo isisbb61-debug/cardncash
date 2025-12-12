@@ -1,0 +1,17 @@
+/* TEAM */
+Site: CardNCash — 신용카드 결제 구조 안내 플랫폼
+URL: https://cardncash.netlify.app
+Purpose: 안전한 카드 결제 구조 정보 제공
+
+Creator: cardncash
+Role: 콘텐츠 운영 & 금융 정보 기획
+Contact: support@cardncash.netlify.app
+
+/* TECHNOLOGY */
+Hosting: Netlify
+Stack: HTML, CSS, JavaScript
+Optimization: SEO, 구조화 데이터, 모바일 퍼포먼스 최적화
+
+/* RIGHTS */
+Content Copyright © CardNCash
+본 사이트는 정보 제공을 목적으로 운영되며, 불법적인 카드깡·명의도용 등은 법적으로 금지됩니다.
