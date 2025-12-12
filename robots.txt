@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# 중요 파일 크롤링 허용
+Allow: /assets/
+Allow: /components/
+
+# 개인 정보 또는 관리 페이지 차단 (혹시 대비)
+Disallow: /admin/
+Disallow: /login/
+Disallow: /settings/
+
+# Sitemap 위치 명시 (중요)
+Sitemap: https://cardncash.netlify.app/sitemap.xml
